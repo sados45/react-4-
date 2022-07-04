@@ -1,0 +1,21 @@
+.user-name{
+    color:red;
+}
+
+.user-age{
+    color:blue;
+}
+
+.user-course{
+
+    color:violet;
+}
+
+
+.btn{
+    background-color: yellowgreen;
+    color:blue;
+    border-radius: 10px;
+    width:100px;
+    height:30px;
+}

@@ -1,0 +1,8 @@
+.btn{
+    border-radius: 10px;
+    width:100px;
+    height:30px;
+    background-color: darkblue;
+    color:orange;
+}
+    /* ayri ayri sayfalarda css yazdigimizda cakismalar yasaniyor. bu nedenle yapilan degisikler de en son yapilan hepsinde gecerli olmus oluyor.  */ 
